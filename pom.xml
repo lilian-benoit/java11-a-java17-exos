@@ -23,6 +23,7 @@
 	</licenses>
 
 	<modules>
+		<module>jdk17-exos-compilation-jdk11</module>
 		<module>jdk17-exos-debut</module>
 		<module>jdk17-exos-solution</module>
 	</modules>
